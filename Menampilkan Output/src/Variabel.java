@@ -4,5 +4,10 @@ public class Variabel {
         name = "Suerto";
 
         System.out.println(name);
+
+        int age = 20;
+        String address ="Jakarta";
+        System.out.println(age);
+        System.out.println(address);
     }
 }
